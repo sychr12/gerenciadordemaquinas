@@ -1,1 +1,3 @@
 # gerenciadordemaquinas
+
+Esse codigo vai ser responsavel pelo manitoramento de entrada e saida de computadores locais
