@@ -1,0 +1,1 @@
+# gerenciadordemaquinas
